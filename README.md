@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aboubakar DIAKITE
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning nestjs
+- 🌱 I’m currently learning aungular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aboubakarsiriki060@gmail.com 
 
